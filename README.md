@@ -2,15 +2,10 @@
 
 Air is a visual redesign of the Steam client that embraces Google's Material Design language to showcase consistent beauty through minimal design.
 
-[Preview Album](https://photos.app.goo.gl/mPscZF8GTwhyuQHq5)
-
-## Installation, customization, tweaks (oh my!)
-
-This [handy-dandy FAQ](https://github.com/airforsteam/Air-for-Steam/wiki) should answer all of your burning questions. If you are the type who frequently has questions, we've frequently got answers!
-
 This is an archive of the final official release of Air. Thanks for all your support!
 <3
 
-## Community
-
-Stay up to date with Air on the [Steam Community Group](https://steamcommunity.com/groups/airforsteam).
+![Blue Theme](+Extras/Preview/Blue%20Theme.png)
+![Dark Theme](+Extras/Preview/Dark%20Theme.png)
+![Light Theme](+Extras/Preview/Light%20Theme.png)
+![In-Game Overlay](+Extras/Preview/Overlay.png)
